@@ -1,0 +1,154 @@
+<resources>
+    <!-- App Namee -->
+    <string name="app_name">PCB Tour Guide</string>
+
+    <!-- Titles for each tab -->
+    <string name="dining_page_title">Dining</string>
+    <string name="shopping_page_title">Shopping</string>
+    <string name="nightlife_page_title">Nightlife</string>
+    <string name="fun_page_title">Fun</string>
+
+    <!-- Dining Names -->
+    <string name="dining_name_dicks">Dick\'s Last Resort</string>
+    <string name="dining_name_dickeys">Dickey\'s Barbecue Pit</string>
+    <string name="dining_name_hofbrau">Hofbrau Beer Garden</string>
+    <string name="dining_name_margaritaville">Jimmy Buffett\'s Margaritaville</string>
+    <string name="dining_name_nathans_famous">Nathan\'s Famous</string>
+    <string name="dining_name_pompano_joes">Pompano Joe\'s</string>
+    <string name="dining_name_red_robin">Red Robin</string>
+    <string name="dining_name_auntie_annes">Auntie Anne\'s Pretzels</string>
+    <string name="dining_name_hana_japan">Hana Japan</string>
+    <string name="dining_name_pineapple_willys">Pineapple Willy\'s</string>
+
+    <!-- Dining Hours -->
+    <string name="dining_hours_dicks">11AM - 10PM</string>
+    <string name="dining_hours_dickeys">11AM - 9PM</string>
+    <string name="dining_hours_hofbrau">11AM - 10PM</string>
+    <string name="dining_hours_margaritaville">10AM - 11PM</string>
+    <string name="dining_hours_nathans_famous">10AM - 10PM</string>
+    <string name="dining_hours_pompano_joes">11AM - 10PM</string>
+    <string name="dining_hours_red_robin">11AM - 11PM</string>
+    <string name="dining_hours_auntie_annes">10AM - 9PM</string>
+    <string name="dining_hours_hana_japan">11AM - 10PM</string>
+    <string name="dining_hours_pineapple_willys">11AM - 10PM</string>
+
+    <!-- Dining Phone Numbers -->
+    <string name="dining_phone_number_dicks">(850)588-0631</string>
+    <string name="dining_phone_number_dickeys">(850)235-2458</string>
+    <string name="dining_phone_number_hofbrau">(850)235-4632</string>
+    <string name="dining_phone_number_margaritaville">(850)235-7870</string>
+    <string name="dining_phone_number_nathans_famous">(850)234-0024</string>
+    <string name="dining_phone_number_pompano_joes">(850)233-1790</string>
+    <string name="dining_phone_number_red_robin">(850)233-1480</string>
+    <string name="dining_phone_number_auntie_annes">(850)532-8872</string>
+    <string name="dining_phone_number_hana_japan">(850)233-4663</string>
+    <string name="dining_phone_number_pineapple_willys">(850)235-0928</string>
+
+    <!-- Shopping Names -->
+    <string name="shopping_name_ron_jon">Ron Jon Surf Shop</string>
+    <string name="shopping_name_shimmering_seas">Shimmering Seas</string>
+    <string name="shopping_name_sunglass_hut">Sunglass Hut</string>
+    <string name="shopping_name_bath_and_body_works">Bath &amp; Body Works</string>
+    <string name="shopping_name_american_eagle">American Eagle Outfitters</string>
+    <string name="shopping_name_toy_kingdom">Toy Kingdom</string>
+    <string name="shopping_name_tillys">Tillys</string>
+    <string name="shopping_name_target">Target</string>
+    <string name="shopping_name_nike">Nike Factory Store</string>
+    <string name="shopping_name_old_navy">Old Navy</string>
+
+    <!-- Shopping Hours -->
+    <string name="shopping_hours_ron_jon">9AM - 10PM</string>
+    <string name="shopping_hours_shimmering_seas">10AM - 9PM</string>
+    <string name="shopping_hours_sunglass_hut">10AM - 9PM</string>
+    <string name="shopping_hours_bath_and_body_works">10AM - 9PM</string>
+    <string name="shopping_hours_american_eagle">10AM - 8PM</string>
+    <string name="shopping_hours_toy_kingdom">10AM - 9PM</string>
+    <string name="shopping_hours_tillys">10AM - 8PM</string>
+    <string name="shopping_hours_target">8AM - 11PM</string>
+    <string name="shopping_hours_nike">10AM - 9PM</string>
+    <string name="shopping_hours_old_navy">9AM - 9PM</string>
+
+    <!-- Shopping Phone Numbers -->
+    <string name="shopping_phone_number_ron_jon">(850)233-8898</string>
+    <string name="shopping_phone_number_shimmering_seas">(850)234-6200</string>
+    <string name="shopping_phone_number_sunglass_hut">(850)233-7457</string>
+    <string name="shopping_phone_number_bath_and_body_works">(850)236-2313</string>
+    <string name="shopping_phone_number_american_eagle">(850)234-6120</string>
+    <string name="shopping_phone_number_toy_kingdom">(850)233-8916</string>
+    <string name="shopping_phone_number_tillys">(850)230-2655</string>
+    <string name="shopping_phone_number_target">(850)236-3720</string>
+    <string name="shopping_phone_number_nike">(850)236-9135</string>
+    <string name="shopping_phone_number_old_navy">(850)236-6355</string>
+
+    <!-- Nightlife Names -->
+    <string name="nightlife_name_club_la_vela">Club La Vela</string>
+    <string name="nightlife_name_tootsies">Tootsie\'s Orchid Lounge</string>
+    <string name="nightlife_name_the_brass_tap">The Brass Tap</string>
+    <string name="nightlife_name_spinnaker">Spinnaker Beach Club</string>
+    <string name="nightlife_name_coyote_ugly">Coyote Ugly</string>
+    <string name="nightlife_name_sharkys">Sharky\'s</string>
+    <string name="nightlife_name_the_craft_bar">The Craft Bar</string>
+    <string name="nightlife_name_runaway_island">Runaway Island</string>
+    <string name="nightlife_name_fishale">Fishale</string>
+    <string name="nightlife_name_harpoon_harrys">Harpoon Harry\'s</string>
+
+    <!-- Nightlife Hours -->
+    <string name="nightlife_hours_club_la_vela">7PM - 4AM</string>
+    <string name="nightlife_hours_tootsies">11AM - 2AM</string>
+    <string name="nightlife_hours_the_brass_tap">11AM - 1AM</string>
+    <string name="nightlife_hours_spinnaker">11AM - 4AM</string>
+    <string name="nightlife_hours_coyote_ugly">4PM - 4AM</string>
+    <string name="nightlife_hours_sharkys">11AM - 10PM</string>
+    <string name="nightlife_hours_the_craft_bar">11AM - 12AM</string>
+    <string name="nightlife_hours_runaway_island">11AM - 10PM</string>
+    <string name="nightlife_hours_fishale">11AM - 11PM</string>
+    <string name="nightlife_hours_harpoon_harrys">11AM - 10PM</string>
+
+    <!-- Nightlife Phone Numbers -->
+    <string name="nightlife_phone_number_club_la_vela">(850)234-3866</string>
+    <string name="nightlife_phone_number_tootsies">(850)236-3459</string>
+    <string name="nightlife_phone_number_the_brass_tap">(850)708-3131</string>
+    <string name="nightlife_phone_number_spinnaker">(850)234-7892</string>
+    <string name="nightlife_phone_number_coyote_ugly">(850)236-5965</string>
+    <string name="nightlife_phone_number_sharkys">(850)235-2420</string>
+    <string name="nightlife_phone_number_the_craft_bar">(850)588-7309</string>
+    <string name="nightlife_phone_number_runaway_island">(850)634-4884</string>
+    <string name="nightlife_phone_number_fishale">(850)640-1410</string>
+    <string name="nightlife_phone_number_harpoon_harrys">(850)234-6060</string>
+
+    <!-- Fun Names -->
+    <string name="fun_name_xd_dark_ride_experience">XD Dark Ride Experience</string>
+    <string name="fun_name_coconut_creek">Coconut Creek Family Fun Park</string>
+    <string name="fun_name_dave_and_busters">Dave &amp; Buster\'s</string>
+    <string name="fun_name_ripleys">Ripley\'s Believe It or Not</string>
+    <string name="fun_name_mirror_maze">Emerald Coast Mirror Maze</string>
+    <string name="fun_name_the_grand">The Grand 16 Theatre</string>
+    <string name="fun_name_race_city">Race City</string>
+    <string name="fun_name_wonderworks">Wonderworks</string>
+    <string name="fun_name_slingshot">Slingshot</string>
+    <string name="fun_name_zoo_world">Zoo World</string>
+
+    <!-- Fun Hours -->
+    <string name="fun_hours_xd_dark_ride_experience">10AM - 9PM</string>
+    <string name="fun_hours_coconut_creek">9AM - 11PM</string>
+    <string name="fun_hours_dave_and_busters">11AM - 12AM</string>
+    <string name="fun_hours_ripleys">9AM - 10PM</string>
+    <string name="fun_hours_mirror_maze">10AM - 9PM</string>
+    <string name="fun_hours_the_grand">11AM - 10PM</string>
+    <string name="fun_hours_race_city">12PM - 9PM</string>
+    <string name="fun_hours_wonderworks">10AM - 11PM</string>
+    <string name="fun_hours_slingshot">10AM - 11PM</string>
+    <string name="fun_hours_zoo_world">9AM - 4PM</string>
+
+    <!-- Fun Phone Numbers -->
+    <string name="fun_phone_number_xd_dark_ride_experience">(850)233-0804</string>
+    <string name="fun_phone_number_coconut_creek">(850)234-2625</string>
+    <string name="fun_phone_number_dave_and_busters">(850)238-3501</string>
+    <string name="fun_phone_number_ripleys">(850)230-6113</string>
+    <string name="fun_phone_number_mirror_maze">(850)972-1042</string>
+    <string name="fun_phone_number_the_grand">(850)233-4835</string>
+    <string name="fun_phone_number_race_city">(850)234-1588</string>
+    <string name="fun_phone_number_wonderworks">(850)249-7000</string>
+    <string name="fun_phone_number_slingshot">(850)234-1121</string>
+    <string name="fun_phone_number_zoo_world">(850)230-1243</string>
+</resources>

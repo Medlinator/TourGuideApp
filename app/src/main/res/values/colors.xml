@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#00838F</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#005662</color>
+
+    <!-- Background color for the restaurants category -->
+    <color name="category_dining_color">#8f2600</color>
+
+    <!-- Background color for the restaurants category -->
+    <color name="category_shopping_color">#8f2600</color>
+
+    <!-- Background color for the restaurants category -->
+    <color name="category_nightlife_color">#8f2600</color>
+
+    <!-- Background color for the restaurants category -->
+    <color name="category_fun_color">#8f2600</color>
+</resources>
